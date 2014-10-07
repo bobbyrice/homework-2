@@ -1,0 +1,63 @@
+body {
+	background-color: grey;
+	color: black;
+	font-family: "helvetica"; 
+	font-size: 10;
+}
+	
+.wrapper {
+	width: 400px;
+	background-color: white;
+	Padding: 30px;
+	margin: 20px auto;
+	
+}
+
+h1 {
+	color: pink;
+	
+}
+	
+	
+h2 {
+	border: 5px solid pink;
+	padding: 5px;
+	
+	}
+	
+p {
+	line-height: 10px;
+	
+}
+
+nav ul {
+	text-align: center;
+	list-style-type: none;
+	padding: 0px;
+
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+
+}
+
+nav a {
+	display: block;
+	
+}
+
+
+a {
+	color: black;
+	Transition: all 1s;
+}
+
+a:hover {
+	color: #cccccc;
+	background-color: none;
+	Transition: all 1s;
+	border: 1px;
+	}
+	
